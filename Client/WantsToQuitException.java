@@ -1,0 +1,3 @@
+class WantsToQuitException extends Exception
+{
+}

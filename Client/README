@@ -1,0 +1,14 @@
+compile with make
+Then run "java Main"
+
+be sure you have compiled and is running WalkerServer in the background
+check ../Server/
+
+Also the IP Adress to the server must be changed, maybe, for some reason
+I put it in CharacterPool.java line 175, almost impossible to find, Sorry for that.
+
+Generate a jar package with
+
+make TestSpel.jar
+
+will also generate mykeys, specify a passphrase for it.
