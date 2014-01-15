@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+"
+  codebase="http://127.0.0.1/applet/"
+>
+<information>
+  <title>TestSpel</title>
+  <vendor>Spekkio</vendor>
+  <homepage href="http://127.0.0.1/" />
+  <description>Test</description>
+</information>
+<offline-allowed/>
+<security>
+  <j2ee-application-client-permissions/>
+</security>
+<resources>
+  <j2se version="1.2+" />
+  <jar href="TestSpel.jar"/>
+</resources>
+<application-desc main-class="Main" />
+</jnlp>
